@@ -1,6 +1,6 @@
 # laravel6.0-docker-envirnment
 
-laravelをいじり倒しましょう。
+laravelをいじり倒す
 
 基本的なものしか入れていないです。
 
