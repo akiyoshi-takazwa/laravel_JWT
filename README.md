@@ -1,7 +1,3 @@
-# laravel6.0-docker-envirnment
+# laravel6.0 * JWT 認証
 
-laravelをいじり倒す
 
-基本的なものしか入れていないです。
-
-nginx & mysql & phpadmin
